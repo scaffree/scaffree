@@ -5,8 +5,8 @@
 
  🌍  I'm based in Uruguay<br>
  ✉️  You can contact me at [sebastiancaffree.developer@gmail.com](mailto:sebastiancaffree.developer@gmail.com)<br>
-🧠  I'm learning Next.js<br>
- 🤝  I'm open to collaborating on AI projects
+🧠  I'm learning everyday<br>
+ 🤝  I'm open to collaborating with Developers World
 
 ### Skills
 
