@@ -1,6 +1,6 @@
-# <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b76119rs9bn34mkvdsgvb32qxyr04dxedwqxfobejubaw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230"/> Welcome to my GitHub
+# <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b76119rs9bn34mkvdsgvb32qxyr04dxedwqxfobejubaw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/> Welcome to my GitHub
 
-![Banner de Sebastian](image4.png)
+![Banner de Sebastian](image1.png)
 
 
  🌍  I'm based in Uruguay<br>
@@ -21,7 +21,7 @@ In addition to my technical experience, I have a strong drive for continuous lea
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/scaffree" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sebastián-caffree-8971a8176/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A1n-caffree-8971a8176/)
 
 ### Badges
 
