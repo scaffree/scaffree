@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b76119rs9bn34mkvdsgvb32qxyr04dxedwqxfobejubaw&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="display: block;margin-left: auto; margin-right: auto;" width="200"/><br> <p align="center">Welcome to Sebastian GitHub</p>
+# <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b76119rs9bn34mkvdsgvb32qxyr04dxedwqxfobejubaw&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-left:50%" width="200"/><br> <p align="center">Welcome to Sebastian GitHub</p>
 
 ![Banner de Sebastian](banner.png)
 
