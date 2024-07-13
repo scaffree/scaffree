@@ -1,6 +1,6 @@
-# <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b76119rs9bn34mkvdsgvb32qxyr04dxedwqxfobejubaw&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-left:50%" width="200"/><br> <p align="center">Welcome to Sebastian GitHub</p>
+# <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b76119rs9bn34mkvdsgvb32qxyr04dxedwqxfobejubaw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230"/> Welcome to my GitHub
 
-![Banner de Sebastian](banner.png)
+![Banner de Sebastian](image4.png)
 
 
  🌍  I'm based in Uruguay<br>
